@@ -1,114 +1,68 @@
-body {
-    background-color: #A2C2E1; 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0px;
-    color: #333; 
-    align-items: center;
-}
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"
+    <title></title>
+</head>
 
-h1 {
-background-color: #E6C5E8; 
-color: #8E7AB5;
-width: 90%;
-margin-top: 20px;
-padding: 20px;
-border-radius: 20px; 
-text-align: center;
-border: 2px solid #D4A5D9; 
-}
+<body>
 
-.caja{
+    <header>        
+    </header>
+
+    <main>
+                <h1> ADOPCION DE ANIMALITOS </h1>
+        <p1> En esta página nos dedicamos a adoptar animales y buscarles un hogar para que vivan con amor y el cuidado que merecen. </p1>
+
+        <h2> EN ESTA PAGINA PODÉS ADOPTAR: </h2>
+        <ul>
+            <li> PERROS </li>
+            <li> GATOS </li>
+            <li> POLLITOS </li>
+            <li> HURONES </li>
+            <li> CONEJOS</li>
+        </ul>
+    <section>
+    </section>
+        <h2> PARA ADOPTAR TENÉS QUE: </h2>
+        <ol>
+            <li> ELEGIR LO QUE DESEES </li>
+            <li> HACER LA DOCUMENTACIÓN </li>
+            <li> IRTE CON EL </li>
+        </ol>
+    <section>        
+    </section>
     
-    background-color: rgb(211, 155, 216);
-    color: rgb(214, 107, 202);
-    width: 200px;
-    height: 200px;
-    border: 2px solid black;
-    border-radius: 15px;
-    display: inline-block;
-    padding: 20px;
-    margin: 15px; 
-    display: inline-block; 
-    vertical-align: top;
-    text-align: center;
+<div>
 
-}
+</div>
+<main>
+    <h1>Animalitos disponibles:</h1>
+    <section class = "contenedor">
+        <div class="caja">
+            <h3>Tarjeta 1</h3>
+            <p>es amable,cariñoso y juguetón</p>
+            <img src="https://1drv.ms/i/c/E59F384E77DFB817/IQR0NUohIZO9TZubh0VK1EbbAZ8j2SAkmNpPTMX0Y_sOO5o?width=1000&height=1500" width="1000" height="1500" alt="perrito">
+        </div>
+        <div class="caja">
+            <h3>Tarjeta 2</h3>
+            <p>es muy curioso y energetico</p>
+            <img src="https://1drv.ms/i/c/E59F384E77DFB817/IQTfLtmhzvAiS4cBPb8qFyyDAX-IT7YLzSvD20o40MkrkVM?width=475&height=475" width="475" height="475" alt="gatito">
+        </div>
+        <div class="caja">
+            <h3>Tarjeta 3</h3>
+            <p>adorables, tierno, salta mucho</p>
+            <img src="https://1drv.ms/i/c/E59F384E77DFB817/IQQ4ZqyDlmpDS754vGe8jvpMAdlEfadAsaI-MJHAhms-6aQ?width=2560&height=1707" width="2560" height="1707" alt="conejito">
+        </div>
 
-.caja img{
-    width: 160px;
-    height: 100px;
-    border: 2px solid rgb(147, 167, 223);
-    border-radius: 12px;
-    display: block;
-    object-fit: cover;
-    margin: 15px auto;
-}
+        </section>
 
-.contenedor{
-    padding: 50px;
-    background-color: rgb(236, 147, 161);
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
+    <footer>
 
-.caja h3{
-    font-size: 20px;
-    margin: 20px;
-    text-align: center;
-    display: inline-block;
-}
+    </footer>
 
-.caja p{
-    font-size: 12px;
-    margin: 0px;
-    text-align: center;
-    display: inline-block;
-    margin: 1px;
-
-}
-
-h2{
-background-color: #E6C5E8;
-color: #8E7AB5;
-width: 50%;
-margin-top: 20px;
-padding: 20px;
-border-radius: 20px; 
-text-align: center;
-border: 2px solid #D4A5D9; 
-}
-
-li{ 
-    background-color: rgb(226, 189, 230);
-    color: rgb(216, 131, 188);
-width: 40%;
-margin-top: 15px;
-padding: 15px;
-border-radius: 15px; 
-text-align: center;
-border: 2px solid #d395cb; 
-font-size: 15px;
-    margin: 8px;
-    text-align: center;
-    display: inline-block;
-}
-
-p{ 
-    color: rgb(216, 131, 188);
-    text-align: center;
-    font-size: 15px;
-    margin: 8px;
-    text-align: center;
-}
-
-p1{ 
-    color: rgb(216, 131, 188);
-    text-align: center;
-    font-size: 15px;
-    margin: 8px;
-    text-align: center;
-    width: 40%;
-    margin: 10px;
-    
-}
+</body>
+</html>
